@@ -1,15 +1,5 @@
 <resources>
-    <string name="app_name">DemoSerialPort</string>
-    <string-array name="devport">
-        <item>ttyS0</item>
-        <item>ttyS1</item>
-        <item>ttyS2</item>
-        <item>ttyS3</item>
-        <item>USB0</item>
-        <item>USB1</item>
-        <item>USB2</item>
-        <item>USB3</item>
-    </string-array>
+    <string name="app_name">安卓串口调试工具</string>
     <string-array name="baudrate">
         <item>0</item>
         <item>50</item>

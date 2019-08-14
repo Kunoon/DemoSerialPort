@@ -67,8 +67,6 @@
                                     android:layout_centerVertical="true"
                                     android:layout_toRightOf="@+id/tv_serialport_set_portnum_title"
                                     android:layout_alignParentRight="true"
-                                    android:background="@drawable/spinner_border"
-                                    android:entries="@array/devport"
                                     android:textColor="@android:color/white"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content" />
@@ -91,7 +89,6 @@
                                     android:layout_centerVertical="true"
                                     android:layout_toRightOf="@+id/tv_serialport_set_baudrate_title"
                                     android:layout_alignParentRight="true"
-                                    android:background="@drawable/spinner_border"
                                     android:entries="@array/baudrate"
                                     android:textColor="@android:color/white"
                                     android:layout_width="match_parent"
